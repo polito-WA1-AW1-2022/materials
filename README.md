@@ -10,6 +10,10 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 ### Javascript
 
+- [JavaScript Basics](./slides/1-01-javascript-basics.pdf)
+- [JavaScript Objects and Functions](./slides/1-02-javascript-objects-functions.pdf)
+- [Asynchronous Programming in JavaScript](./slides/1-04-javascript-async-programming.pdf)
+
 
 ### Browsers and client-side applications
 
