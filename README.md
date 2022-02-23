@@ -5,7 +5,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 ## Slides
 
 * [Introduction to the course (prof. Corno)](./slides/00-intro-2022-WA1-AJ.pdf)
-* [Introduction to the course (prof. Masala)]
+* [Introduction to the course (prof. Masala)](./slides/00-intro-2022-AW1.pdf)
 * [Introduction to the course (prof. De Russis)]
 
 ### Javascript
