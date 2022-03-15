@@ -25,6 +25,9 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 ### Web Servers and server-side APIs
 
 
+## Readings
+
+- Reading 1: [Introduction to Web Architectures, HTML, and CSS](./readings/2-0-reading-web-architecture-html-css.pdf)
 
 ## Laboratories
 
