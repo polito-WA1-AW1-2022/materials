@@ -17,6 +17,10 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 ### Browsers and client-side applications
 
+- See **Reading 1**
+- [Web Architecture](./slides/2-01-web-architecture.pdf)
+- [(Modern) HTML](./slides/2-02-html.pdf)
+- [Cascading Style Sheets](./slides/2-03-css.pdf)
 
 ### React
 
