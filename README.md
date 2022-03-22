@@ -4,9 +4,9 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 ## Slides
 
-* [Introduction to the course (prof. Corno)](./slides/00-intro-2022-WA1-AJ.pdf)
-* [Introduction to the course (prof. Masala)](./slides/00-intro-2022-AW1.pdf)
-* [Introduction to the course (prof. De Russis)](./slides/00-intro-2022-WA1-KZ.pdf)
+- [Introduction to the course (prof. Corno)](./slides/00-intro-2022-WA1-AJ.pdf)
+- [Introduction to the course (prof. Masala)](./slides/00-intro-2022-AW1.pdf)
+- [Introduction to the course (prof. De Russis)](./slides/00-intro-2022-WA1-KZ.pdf)
 
 ### Javascript
 
@@ -35,5 +35,6 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 ## Laboratories
 
-* Lab 01: [Getting Started with Node.js](./labs/lab1-getting-started-node.pdf)
-* Lab 02: [Database Integration](./labs/lab2-node-database.pdf)
+- Lab 01: [Getting Started with Node.js](./labs/lab1-getting-started-node.pdf)
+- Lab 02: [Database Integration](./labs/lab2-node-database.pdf)
+- Lab 03: [Getting started with HTML and CSS](./labs/lab3-html-css.pdf)
