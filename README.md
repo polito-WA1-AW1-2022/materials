@@ -21,6 +21,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [Web Architecture](./slides/2-01-web-architecture.pdf)
 - [(Modern) HTML](./slides/2-02-html.pdf)
 - [Cascading Style Sheets](./slides/2-03-css.pdf)
+- [JavaScript in the Browser](./slides/2-04-JS-browser.pdf)
 
 ### React
 
