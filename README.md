@@ -36,6 +36,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 ## Laboratories
 
-- Lab 01: [Getting Started with Node.js](./labs/lab1-getting-started-node.pdf)
-- Lab 02: [Database Integration](./labs/lab2-node-database.pdf)
-- Lab 03: [Getting started with HTML and CSS](./labs/lab3-html-css.pdf)
+- Lab 1: [Getting Started with Node.js](./labs/lab1-getting-started-node.pdf)
+- Lab 2: [Database Integration](./labs/lab2-node-database.pdf)
+- Lab 3: [Getting started with HTML and CSS](./labs/lab3-html-css.pdf)
+- Lab 4: [JavaScript in the Browser](./labs/lab4-js-browser)
