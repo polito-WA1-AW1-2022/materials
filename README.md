@@ -13,6 +13,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [JavaScript Basics](./slides/1-01-javascript-basics.pdf)
 - [JavaScript Objects and Functions](./slides/1-02-javascript-objects-functions.pdf)
 - [Asynchronous Programming in JavaScript](./slides/1-04-javascript-async-programming.pdf)
+- [The 'this' keyword](./slides/1-05-javascript-this.pdf) - see **Reading 2**
 
 
 ### Browsers and client-side applications
@@ -33,6 +34,8 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 ## Readings
 
 - Reading 1: [Introduction to Web Architectures, HTML, and CSS](./readings/2-0-reading-web-architecture-html-css.pdf)
+- Reading 2: [The 'this' keyword in JavaScript](./readings/1-5-reading-this.pdf)
+
 
 ## Laboratories
 
