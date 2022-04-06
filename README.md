@@ -45,3 +45,6 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - Lab 2: [Database Integration](./labs/lab2-node-database.pdf)
 - Lab 3: [Getting started with HTML and CSS](./labs/lab3-html-css.pdf)
 - Lab 4: [JavaScript in the Browser](./labs/lab4-js-browser.pdf)
+- [Instructions for GitHub Classroom](./labs/GH-Classroom-BigLab-Instructions.pdf)
+- BigLab 1: [FilmLibrary in React](./labs/BigLab1/BigLab1.pdf)
+	- BigLab 1A: [Getting Started with React](./labs/BigLab1/BigLab1A.pdf)
