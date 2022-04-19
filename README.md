@@ -50,3 +50,4 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [Instructions for GitHub Classroom](./labs/GH-Classroom-BigLab-Instructions.pdf)
 - BigLab 1: [FilmLibrary in React](./labs/BigLab1/BigLab1.pdf)
 	- BigLab 1A: [Getting Started with React](./labs/BigLab1/BigLab1A.pdf)
+	- BigLab 1A: [React Components’ State](./labs/BigLab1/BigLab1B.pdf)
