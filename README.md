@@ -30,6 +30,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [Elements and JSX](./slides/3-02-Elements-and-JSX.pdf)
 - [Components and State](./slides/3-03-Components-and-state.pdf)
 - [Forms](./slides/3-04-Forms.pdf)
+- [Context](./slides/3-05-Context.pdf)
 
 
 ### Web Servers and server-side APIs
@@ -50,4 +51,4 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [Instructions for GitHub Classroom](./labs/GH-Classroom-BigLab-Instructions.pdf)
 - BigLab 1: [FilmLibrary in React](./labs/BigLab1/BigLab1.pdf)
 	- BigLab 1A: [Getting Started with React](./labs/BigLab1/BigLab1A.pdf)
-	- BigLab 1B: [React Components’ State](./labs/BigLab1/BigLab1B.pdf)
+	- BigLab 1B: [React Components' State](./labs/BigLab1/BigLab1B.pdf)
