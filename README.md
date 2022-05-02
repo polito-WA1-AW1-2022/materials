@@ -32,7 +32,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [Components and State](./slides/3-03-Components-and-state.pdf)
 - [Forms](./slides/3-04-Forms.pdf)
 - [Context](./slides/3-05-Context.pdf)
-
+- [React Router](./slides/3-06-React-Router.pdf)
 
 ### Web Servers and server-side APIs
 
