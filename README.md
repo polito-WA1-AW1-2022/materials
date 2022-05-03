@@ -55,3 +55,4 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 	- BigLab 1A: [Getting Started with React](./labs/BigLab1/BigLab1A.pdf)
 	- BigLab 1B: [React Components' State](./labs/BigLab1/BigLab1B.pdf)
 	- BigLab 1C: [Forms & Film Manipulation](./labs/BigLab1/BigLab1C.pdf)
+	- BigLab 1D: [Editing Films & React Routes](./labs/BigLab1/BigLab1D.pdf)
