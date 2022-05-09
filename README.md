@@ -36,6 +36,9 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 ### Web Servers and server-side APIs
 
+- [Express](./slides/4-01-Express.pdf)
+- [HTTP APIs](./slides/4-02-API.pdf)
+
 
 ## Readings
 
@@ -56,3 +59,4 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 	- BigLab 1B: [React Components' State](./labs/BigLab1/BigLab1B.pdf)
 	- BigLab 1C: [Forms & Film Manipulation](./labs/BigLab1/BigLab1C.pdf)
 	- BigLab 1D: [Editing Films & React Routes](./labs/BigLab1/BigLab1D.pdf)
+- BigLab 2
