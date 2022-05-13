@@ -45,6 +45,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - Reading 1: [Introduction to Web Architectures, HTML, and CSS](./readings/2-0-reading-web-architecture-html-css.pdf)
 - Reading 2: [The 'this' keyword in JavaScript](./readings/1-5-reading-this.pdf)
 - Reading 3: [JavaScript Modules](./readings/1-7-reading-modules.pdf)
+- Reading 4: [Client-Server Interaction in React](./readings/3-07-Client-Server-React.pdf)
 
 
 ## Laboratories
