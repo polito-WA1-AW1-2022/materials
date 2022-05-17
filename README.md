@@ -64,3 +64,4 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 	- BigLab 1D: [Editing Films & React Routes](./labs/BigLab1/BigLab1D.pdf)
 - BigLab 2: [Full Stack FilmLibrary](./labs/BigLab2/BigLab2.pdf)
 	- BigLab 2A: [APIs with Express](./labs/BigLab2/BigLab2A.pdf)
+	- BigLab 2B: [APIs Integration (retrieve films from the backend)](./labs/BigLab2/BigLab2B.pdf)
