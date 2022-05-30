@@ -40,6 +40,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 - [Express](./slides/4-01-Express.pdf)
 - [HTTP APIs](./slides/4-02-API.pdf)
+- [Authentication](./slides/4-03-Authentication.pdf)
 
 
 ## Readings
