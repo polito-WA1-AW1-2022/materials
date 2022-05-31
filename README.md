@@ -67,3 +67,4 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 	- BigLab 2A: [APIs with Express](./labs/BigLab2/BigLab2A.pdf)
 	- BigLab 2B: [APIs Integration (retrieve films from the backend)](./labs/BigLab2/BigLab2B.pdf)
 	- BigLab 2C: [Complete APIs Integration (Add, Edit, and Delete)](./labs/BigLab2/BigLab2C.pdf)
+	- BigLab 2D: [Multi-user Application with Authentication](./labs/BigLab2/BigLab2D.pdf)
